@@ -32,7 +32,7 @@
                             <li><input type="submit" name="sbmLogin" id="sbmLogin" value="Login">
                         
                             </li>
-                            <li><a href="#">Forger Password</a></li>
+                            <li><a href="Users.php">Forger Password</a></li>
                             <li><a href="signup.php">Sign Up</a>
                                                          
                             </li>
